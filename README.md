@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cande-az&label=Profile%20views&color=0e75b6&style=flat" alt="cande-az" /> </p>
 
-- 🔭 I’m currently working on [PocketFit](https://github.com/cande-az/PocketFit)
+- 🔭 I’m currently working on [Konabos](https://www.linkedin.com/company/konabos/mycompany/)
 
 - 📫 How to reach me **candeaznarez00@gmail.com**
 
