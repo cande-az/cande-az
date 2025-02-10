@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cande-az&label=Profile%20views&color=0e75b6&style=flat" alt="cande-az" /> </p>
 
-- 🔭 I’m currently working on [Konabos](https://www.linkedin.com/company/konabos/mycompany/)
+- 🔭 I’m currently working on [Tech-house]([https://www.linkedin.com/company/konabos/mycompany/](https://www.linkedin.com/company/tech-house-tech/posts/?feedView=all))
 
-- 📫 How to reach me **candeaznarez00@gmail.com**
+- 📫 How to reach me **can.aznarez@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
